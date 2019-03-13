@@ -1,5 +1,5 @@
 # Gomoku_Search_Tree_Java
-Implementation of Monte Carlo Search Tree to Play Gomoku in Java
+Implementation of Monte Carlo Search Tree to Play Gomoku in Java.
 
 All Java classes involved with my Gomoku game:
 NewBoardGUI.java - User Interface which shows the board and player tokens. Any changes that take place on this board will be reflected onto the virtual board as well.
